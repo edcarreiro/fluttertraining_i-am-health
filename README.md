@@ -4,7 +4,7 @@ A simple Flutter application for training purposes. Doesn't do anything.
 
 ## Getting Started
 
-![Screenshot](images/ScreenShot.png "Screenshot App")
+![Screenshot](images/screenshot.png)
 
 
 This project is a starting point for a Flutter application.
