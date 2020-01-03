@@ -1,4 +1,4 @@
-# i_am_health
+# I Am Health
 
 A simple Flutter application for training purposes. Doesn't do anything.
 
